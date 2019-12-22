@@ -5,4 +5,14 @@
         <TargetFramework>netcoreapp3.0</TargetFramework>
     </PropertyGroup>
 
+    <ItemGroup>
+      <None Remove=".gitignore" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Content Include="..\..\Zajecia_VI\Zajecia_VI\.gitignore">
+        <Link>.gitignore</Link>
+      </Content>
+    </ItemGroup>
+
 </Project>
