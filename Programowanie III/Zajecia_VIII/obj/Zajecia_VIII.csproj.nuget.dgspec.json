@@ -1,0 +1,52 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\seril\\RiderProjects\\Programowanie III\\Zajecia_VIII\\Zajecia_VIII.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\seril\\RiderProjects\\Programowanie III\\Zajecia_VIII\\Zajecia_VIII.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\seril\\RiderProjects\\Programowanie III\\Zajecia_VIII\\Zajecia_VIII.csproj",
+        "projectName": "Zajecia_VIII",
+        "projectPath": "C:\\Users\\seril\\RiderProjects\\Programowanie III\\Zajecia_VIII\\Zajecia_VIII.csproj",
+        "packagesPath": "C:\\Users\\seril\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\seril\\RiderProjects\\Programowanie III\\Zajecia_VIII\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\seril\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,40 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\seril\\RiderProjects\\Programowanie III\\Zajecia_IV\\Zajecia_IV\\Zajecia_IV.csproj",
+    "projectName": "Zajecia_IV",
+    "projectPath": "C:\\Users\\seril\\RiderProjects\\Programowanie III\\Zajecia_IV\\Zajecia_IV\\Zajecia_IV.csproj",
+    "outputPath": "C:\\Users\\seril\\RiderProjects\\Programowanie III\\Zajecia_IV\\Zajecia_IV\\obj\\",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp3.0"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp3.0": {
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

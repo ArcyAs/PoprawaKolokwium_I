@@ -1,0 +1,11 @@
+C:\Users\seril\RiderProjects\Programowanie III\Zajecia_VIII\obj\Debug\netcoreapp3.0\Zajecia_VIII.csprojAssemblyReference.cache
+C:\Users\seril\RiderProjects\Programowanie III\Zajecia_VIII\obj\Debug\netcoreapp3.0\Zajecia_VIII.AssemblyInfoInputs.cache
+C:\Users\seril\RiderProjects\Programowanie III\Zajecia_VIII\obj\Debug\netcoreapp3.0\Zajecia_VIII.AssemblyInfo.cs
+C:\Users\seril\RiderProjects\Programowanie III\Zajecia_VIII\bin\Debug\netcoreapp3.0\Zajecia_VIII.exe
+C:\Users\seril\RiderProjects\Programowanie III\Zajecia_VIII\bin\Debug\netcoreapp3.0\Zajecia_VIII.deps.json
+C:\Users\seril\RiderProjects\Programowanie III\Zajecia_VIII\bin\Debug\netcoreapp3.0\Zajecia_VIII.runtimeconfig.json
+C:\Users\seril\RiderProjects\Programowanie III\Zajecia_VIII\bin\Debug\netcoreapp3.0\Zajecia_VIII.runtimeconfig.dev.json
+C:\Users\seril\RiderProjects\Programowanie III\Zajecia_VIII\bin\Debug\netcoreapp3.0\Zajecia_VIII.dll
+C:\Users\seril\RiderProjects\Programowanie III\Zajecia_VIII\bin\Debug\netcoreapp3.0\Zajecia_VIII.pdb
+C:\Users\seril\RiderProjects\Programowanie III\Zajecia_VIII\obj\Debug\netcoreapp3.0\Zajecia_VIII.dll
+C:\Users\seril\RiderProjects\Programowanie III\Zajecia_VIII\obj\Debug\netcoreapp3.0\Zajecia_VIII.pdb
