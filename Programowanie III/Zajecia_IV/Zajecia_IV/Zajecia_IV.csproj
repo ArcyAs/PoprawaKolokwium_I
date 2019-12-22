@@ -10,7 +10,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Content Include="..\..\Zajecia_VI\Zajecia_VI\.gitignore">
+      <Content Include="..\..\Zajecia_VII\.gitignore">
         <Link>.gitignore</Link>
       </Content>
     </ItemGroup>
