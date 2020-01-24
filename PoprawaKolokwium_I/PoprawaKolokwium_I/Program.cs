@@ -6,7 +6,7 @@ namespace PoprawaKolokwium_I
     {
         static void Pierwsze()
         {
-            int wynik;
+            int wynik = 0;
             double x, maxX;
             Console.WriteLine("Podaj liczbe nr1: ");
             x = Convert.ToDouble(Console.ReadLine());
@@ -19,30 +19,33 @@ namespace PoprawaKolokwium_I
             else
             {
                 x = (x/maxX)*100;
-                wynik = 
             }
-            Console.WriteLine(wynik);
+            Console.WriteLine("Wynik to: {0}" ,wynik);
         }
         static void Drugie()
         {
-            double[] pomiary = {5.4,8.2,10.3,7.3,14.2,14.9,13.2,11.2,10.3,11.8,13.2,11.1};
-            double prognozowaneZuzycie =  pomiary[1]*12;
+            double kwota = 0;
+            double[] pomiary = {5.2,8.2,10.3,7.3,14.2,14.9,13.2,11.2,10.3,11.8,13.2,11.1};
+            Console.WriteLine(pomiary[0]);
+            double prognozowaneZuzycie = pomiary[0]*12;
             double prognozowanaKwota = prognozowaneZuzycie * 1.4;
-            for (int i = 0; i < pomiary.Length ; i++)
+            for (int i = 0; i < pomiary.Length-1 ; i++)
             {
-                double kwota =+ pomiary[i] * 1.4;
+                kwota=+ kwota+ pomiary[i] * 1.4;
             }
-            
-            Console.WriteLine(prognozowaneZuzycie);
-            Console.WriteLine(prognozowanaKwota);
-            
+
+            double roznica = prognozowaneZuzycie - kwota;
+            Console.WriteLine("Prognozowane zuzycie to: {0}" ,prognozowaneZuzycie);
+            Console.WriteLine("Prognozowana kwota to: {0}", prognozowanaKwota);
+            Console.WriteLine("Kwota rzeczywista to: {0}", kwota);
+            Console.WriteLine("Roznica kwoty prognozowanej i rzeczywistej to: {0}", roznica);
             
             
         }
         
                 static void Main(string[] args)
         {
-            Pierwsze();
+            //Pierwsze();
             Drugie();
         }
     }
