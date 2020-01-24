@@ -45,7 +45,7 @@ namespace PoprawaKolokwium_I
         
                 static void Main(string[] args)
         {
-            //Pierwsze();
+            Pierwsze();
             Drugie();
         }
     }
