@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\seril\.Rider2019.3\config\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\seril\.Rider2019.3\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\seril\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\seril\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_PoprawaKolokwium_2_last.-1653526528.00" t="ExcludeRecursive" />
+    <e p="C:\Users\seril\RiderProjects\PoprawaKolokwium_2_last" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="PoprawaKolokwium_2_last" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="PoprawaKolokwium_2_last.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="PoprawaKolokwium_2_last.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="PoprawaKolokwium_2_last.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

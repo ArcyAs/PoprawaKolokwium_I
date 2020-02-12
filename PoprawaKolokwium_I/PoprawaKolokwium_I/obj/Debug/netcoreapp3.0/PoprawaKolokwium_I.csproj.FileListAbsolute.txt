@@ -1,0 +1,11 @@
+C:\Users\seril\RiderProjects\PoprawaKolokwium_I\PoprawaKolokwium_I\obj\Debug\netcoreapp3.0\PoprawaKolokwium_I.csprojAssemblyReference.cache
+C:\Users\seril\RiderProjects\PoprawaKolokwium_I\PoprawaKolokwium_I\obj\Debug\netcoreapp3.0\PoprawaKolokwium_I.AssemblyInfoInputs.cache
+C:\Users\seril\RiderProjects\PoprawaKolokwium_I\PoprawaKolokwium_I\obj\Debug\netcoreapp3.0\PoprawaKolokwium_I.AssemblyInfo.cs
+C:\Users\seril\RiderProjects\PoprawaKolokwium_I\PoprawaKolokwium_I\bin\Debug\netcoreapp3.0\PoprawaKolokwium_I.exe
+C:\Users\seril\RiderProjects\PoprawaKolokwium_I\PoprawaKolokwium_I\bin\Debug\netcoreapp3.0\PoprawaKolokwium_I.deps.json
+C:\Users\seril\RiderProjects\PoprawaKolokwium_I\PoprawaKolokwium_I\bin\Debug\netcoreapp3.0\PoprawaKolokwium_I.runtimeconfig.json
+C:\Users\seril\RiderProjects\PoprawaKolokwium_I\PoprawaKolokwium_I\bin\Debug\netcoreapp3.0\PoprawaKolokwium_I.runtimeconfig.dev.json
+C:\Users\seril\RiderProjects\PoprawaKolokwium_I\PoprawaKolokwium_I\bin\Debug\netcoreapp3.0\PoprawaKolokwium_I.dll
+C:\Users\seril\RiderProjects\PoprawaKolokwium_I\PoprawaKolokwium_I\bin\Debug\netcoreapp3.0\PoprawaKolokwium_I.pdb
+C:\Users\seril\RiderProjects\PoprawaKolokwium_I\PoprawaKolokwium_I\obj\Debug\netcoreapp3.0\PoprawaKolokwium_I.dll
+C:\Users\seril\RiderProjects\PoprawaKolokwium_I\PoprawaKolokwium_I\obj\Debug\netcoreapp3.0\PoprawaKolokwium_I.pdb

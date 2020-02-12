@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "PoprawaKolokwium_I/1.0.0": {
+        "runtime": {
+          "PoprawaKolokwium_I.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PoprawaKolokwium_I/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
