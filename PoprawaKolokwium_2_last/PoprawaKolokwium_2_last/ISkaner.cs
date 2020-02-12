@@ -1,7 +1,13 @@
-﻿namespace PoprawaKolokwium_2_last
+﻿using System;
+
+namespace PoprawaKolokwium_2_last
 {
     public interface ISkaner
     {
-        public static void Skanuj(string jakies);
+        public static string Skanuj(string skanowanie)
+        {
+            Console.WriteLine("Skanowanie");
+            return skanowanie;
+        }
     }
 }

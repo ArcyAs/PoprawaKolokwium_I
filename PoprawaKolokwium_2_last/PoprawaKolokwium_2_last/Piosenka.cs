@@ -2,7 +2,7 @@
 
 namespace PoprawaKolokwium_2_last
 {
-    public class Piosenka
+    public  class Piosenka
     {
         public string tytul;
         public string autor;
@@ -17,7 +17,7 @@ namespace PoprawaKolokwium_2_last
 
         public Piosenka()
         {
-           
+            throw new NotImplementedException();
         }
     }
 }

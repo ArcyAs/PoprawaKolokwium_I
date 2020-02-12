@@ -14,6 +14,7 @@
         <e p="IDrukarka.cs" t="Include" />
         <e p="IKopiarka.cs" t="Include" />
         <e p="ISkaner.cs" t="Include" />
+        <e p="Kopiarka.cs" t="Include" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netcoreapp3.1" t="Include">
@@ -21,9 +22,13 @@
             </e>
           </e>
         </e>
+        <e p="Outlook.cs" t="Include" />
         <e p="Piosenka.cs" t="Include" />
+        <e p="Poczta.cs" t="Include" />
         <e p="PoprawaKolokwium_2_last.csproj" t="IncludeRecursive" />
         <e p="Program.cs" t="Include" />
+        <e p="PrzegladarkaChrome.cs" t="Include" />
+        <e p="Smartphone.cs" t="Include" />
       </e>
       <e p="PoprawaKolokwium_2_last.sln" t="IncludeFlat" />
     </e>
