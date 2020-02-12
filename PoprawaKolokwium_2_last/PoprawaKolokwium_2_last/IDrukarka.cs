@@ -2,6 +2,9 @@
 {
     public interface IDrukarka
     {
-        
+        public static void Drukuj(string cos)
+        {
+            
+        }
     }
 }

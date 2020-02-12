@@ -30,6 +30,8 @@ namespace PoprawaKolokwium_2_last
             {
                 Console.WriteLine($"{item.tytul}, {item.autor}, {item.dlugosc}");
             }
+        }
+
         //Zadanie 2
             public int[] tablica = {1, 3, 5, 5, 8, 1, 9, 18, 9, 12};
             

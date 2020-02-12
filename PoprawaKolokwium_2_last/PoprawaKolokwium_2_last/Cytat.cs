@@ -13,10 +13,10 @@ namespace PoprawaKolokwium_2_last
             wydawnictwo = this.wydawnictwo;
         }
 
-        public void Deconstruct(out string autor, out DateTime dataWydania)
+        public void Deconstruct(out string autor, out int dataWydania)
         {
             autor = this.autor;
-            dataWydania = this.dataWydania;
+            dataWydania = this.dataWydania.Year;
         }
 
         public string autor;
